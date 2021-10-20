@@ -1,5 +1,3 @@
 # ScreenRes
-Layouts
-
-## Android Different Screen Resolutions Layouts App
+### Android Different Screen Resolutions Layouts
 
