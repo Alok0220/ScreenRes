@@ -1,4 +1,4 @@
-package com.example.screenres;
+package com.example.screenopt;
 
 import org.junit.Test;
 
