@@ -6,4 +6,4 @@
 
 ### Supports Below 
 
-#### Nexus 4 API 29 - resolution - 1280 720
+#### Nexus 4 API 29 - resolution - 720 1280
