@@ -3,3 +3,7 @@
 
 #### Scroll View
 #### Constraint View
+
+### Supports Below 
+
+#### Nexus 4 API 29 - resolution - 1280 720
