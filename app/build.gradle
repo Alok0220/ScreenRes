@@ -6,7 +6,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.example.screenres"
+        applicationId "com.example.screenopt"
         minSdk 21
         targetSdk 30
         versionCode 1
